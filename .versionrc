@@ -1,0 +1,14 @@
+{
+  "bumpFiles": [
+    {
+      "filename": "MY_VERSION_TRACKER.txt",
+      "type": "plain-text"
+    }
+  ],
+  "packageFiles": [
+      {
+        "filename": "MY_VERSION_TRACKER.txt",
+        "type": "plain-text"
+      }
+    ]
+}
