@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0-develop.1](https://github.com/SpikeVlg/standard_version_java_test/compare/v1.1.1...v1.2.0-develop.1) (2021-05-20)
+
+
+### Features
+
+* **test:** aabb ([fee898b](https://github.com/SpikeVlg/standard_version_java_test/commit/fee898b78839bab7ec5994032489d5117dcd51a0))
+* **test:** test ([a61749a](https://github.com/SpikeVlg/standard_version_java_test/commit/a61749a7f56ee7006b39db82ab7cb3dd3dab63bc))
+
 ## [1.2.0-develop.0](https://github.com/SpikeVlg/standard_version_java_test/compare/v1.1.1...v1.2.0-develop.0) (2021-05-20)
 
 
